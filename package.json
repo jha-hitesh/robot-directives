@@ -8,7 +8,7 @@
   "main": "lib",
   "browser": "lib-es5",
   "dependencies": {
-    "deep-freeze-node": "^1.1.3",
+    "deep-freeze-node": "https://github.com/mojavelinux/deep-freeze-node#issue-5-remove-os-arch-restrictions",
     "isbot": "^3.0.24",
     "ua-parser-js": "1.0.35"
   },
